@@ -73,6 +73,7 @@
         word-break: break-all;
         display: inline-block;
         font-size: 16px;
+        border: solid 10px blue;
         white-space: normal;
         width: 290px;
         height: 100%;
